@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img alt="Top Langs" height="209px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajipon-44&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="209px" src="https://github-readme-stats.vercel.app/api?username=ajipon-44&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajipon-44&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=ajipon-44&theme=dark&show_icons=ture" />
 </p>
