@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 💙favorite
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,c,html,css">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,c">
 </p>
 
 ## 📚studying
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ## etc
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,r,py,java">
+  <img src="https://skillicons.dev/icons?i=html,css,go,r,py,java">
 </p>
