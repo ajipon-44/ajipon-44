@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 📚studying
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,js,react">
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react">
 </p>
 
 ## etc
