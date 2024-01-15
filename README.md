@@ -23,22 +23,22 @@ Here are some ideas to get you started:
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=ajipon-44&theme=dracula&show_icons=ture&count_private=true" />
 </p>
 
-# 🌱my skills
+# 🌱 My Skills
 
-## 💙favorite
+## Often Used
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,c">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,ts,react,next" alt="Ruby, Rails, TypeScript, React, Next.js">
 </p>
 
-## 📚studying
+## 📚 Currently Studying
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react">
+  <img src="https://skillicons.dev/icons?i=solidity,next" alt="Solidity, Next.js">
 </p>
 
-## etc
+## Etc
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,go,r,py,java">
+  <img src="https://skillicons.dev/icons?i=html,css,js,go,r,py,java,c" alt="HTML, CSS, JS, Go, R, Python, Java, C">
 </p>
