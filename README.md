@@ -25,20 +25,6 @@ Here are some ideas to get you started:
 
 # 🌱 My Skills
 
-## Often Used
-
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,ts,react,next" alt="Ruby, Rails, TypeScript, React, Next.js">
-</p>
-
-## 📚 Currently Studying
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,next" alt="Solidity, Next.js">
-</p>
-
-## Etc
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,go,r,py,java,c" alt="HTML, CSS, JS, Go, R, Python, Java, C">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,ruby,rails,java,spring,solidity">
 </p>
