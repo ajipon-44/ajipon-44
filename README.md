@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 # 🌱 My Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,ruby,rails,java,spring,solidity">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,ruby,rails,java,solidity">
 </p>
