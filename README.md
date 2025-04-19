@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajipon-44&theme=dracula" />
 </p>
 
-# 🌱 My Skills
+# 🛠️ Skill Set
 
 ## Frontend
 
