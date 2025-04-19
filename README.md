@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 # 🌱 My Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,ruby,rails,java,solidity">
-</p>
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next">
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,java,solidity">
+
+## Infrastructure, DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,k8s">
