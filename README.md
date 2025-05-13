@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,java,solidity">
+<img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,solidity">
 
 ## Infrastructure, DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,k8s">
+<img src="https://skillicons.dev/icons?i=aws,docker,k8s">
